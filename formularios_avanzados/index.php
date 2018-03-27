@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
+	<style>
+		a{
+			padding-bottom: 20px;
+		}
+	</style>
 	<meta charset="UTF-8">
 	<title>Formularios_avanzados</title>
 	<!-- Latest compiled and minified CSS -->
@@ -14,7 +19,8 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12">
-				<a class="btn btn-success" href="metodo_get/index.php">Metodo Get</a>
+			<a class="btn btn-success" href="metodo_get/index.php">Metodo GET</a>
+			<a class="btn btn-success" href="metodo_post/index.php">Metodo POST</a>
 			</div>
 		</div>
 	</div>
