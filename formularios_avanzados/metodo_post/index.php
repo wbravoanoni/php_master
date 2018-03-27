@@ -9,7 +9,6 @@ var_dump($opciones);
 var_dump($nombre);
 var_dump($apellido);
 echo "</pre>";
-
 ?>
 
 <!DOCTYPE html>
