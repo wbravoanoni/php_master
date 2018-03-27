@@ -19,8 +19,10 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12">
-			<a class="btn btn-success" href="metodo_get/index.php">Metodo GET</a>
-			<a class="btn btn-success" href="metodo_post/index.php">Metodo POST</a>
+	<a class="btn btn-success" href="metodo_get/index.php">Metodo GET</a>
+	<a class="btn btn-success" href="metodo_post/index.php">Metodo POST</a>
+	<a class="btn btn-success" href="tipos_de_valores/index.php">Tipos de valores</a>
+	<a class="btn btn-success" href="encriptacion_envioInfo/index.php">encriptacion envio</a>
 			</div>
 		</div>
 	</div>
