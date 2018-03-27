@@ -5,7 +5,6 @@ echo "</pre>";
 
 
 
-
 if($_FILES && $_FILES["image_file"]['type']=="image/png"){
 
 move_uploaded_file($_FILES["image_file"]['tmp_name'],
