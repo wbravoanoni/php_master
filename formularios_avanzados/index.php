@@ -23,6 +23,12 @@
 	<a class="btn btn-success" href="metodo_post/index.php">Metodo POST</a>
 	<a class="btn btn-success" href="tipos_de_valores/index.php">Tipos de valores</a>
 	<a class="btn btn-success" href="encriptacion_envioInfo/index.php">encriptacion envio</a>
+	<a class="btn btn-success" href="envio_jquery/index.php">envio jquery</a>
+	<a class="btn btn-success" href="envio_angular/index.php">envio angular</a>
+
+
+
+	
 			</div>
 		</div>
 	</div>
