@@ -1,0 +1,11 @@
+<?xmi version="1.0" encoding="UTF-8"?>
+	<breakfast_menu>
+		<food>
+			<name>Mexican Temales</name>
+			<price>$5.95</price>
+			<description>
+			two of our famous Mexican Tamales with some spicy sauce
+			</description>
+			<calories>900</calories>
+		</food>
+	</breakfast_menu>

@@ -13,6 +13,7 @@
 	<h1 class="text-center">Manejo de archivos</h1>
 <br><br>
 	<a class="btn btn-success" href="cargar_php/">cargar PHP</a>
-	
+	<a class="btn btn-success" href="crear_archivos/">crear archivos</a>
+	<a class="btn btn-success" href="headers/index.php">Headers</a>	
 </body>
 </html>
