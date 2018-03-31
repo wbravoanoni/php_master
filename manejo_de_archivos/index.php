@@ -21,6 +21,7 @@
 	<a class="btn btn-warning" href="crear_pdf/">Crear PDF</a>
 	<a class="btn btn-warning" href="crear_xml/index.php">Crear XML</a>	
 	<a class="btn btn-warning" href="crear_ppt/">Crear PPT</a>	
+	<a class="btn btn-warning" href="cache/">cache</a>	
 
 </body>
 </html>
