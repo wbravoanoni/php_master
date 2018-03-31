@@ -18,9 +18,9 @@
 	<a class="btn btn-success" href="eliminar_archivos/index.php">Eliminar archivos</a>	
 	<br><br>
 	<a class="btn btn-warning" href="./apertura_de_imagenes/">Apertura de imagenes</a>
-	<a class="btn btn-success" href="crear_pdf/">crear PDF</a>
-	<a class="btn btn-success" href="#">Headers</a>	
-	<a class="btn btn-success" href="#">Eliminar archivos</a>	
+	<a class="btn btn-warning" href="crear_pdf/">Crear PDF</a>
+	<a class="btn btn-warning" href="crear_xml/index.php">Crear XML</a>	
+	<a class="btn btn-warning" href="crear_ppt/">Crear PPT</a>	
 
 </body>
 </html>
